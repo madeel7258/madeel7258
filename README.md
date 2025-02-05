@@ -11,13 +11,17 @@
 - 📄 **About Me**:  
   I am highly motivated and passionate about completing work efficiently. I am always eager to learn new skills and expand my knowledge. As a Data Scientist, I have extensive experience in Python, Machine Learning, Data Science, Deep Learning, and Data Analysis. Below are some of my core competencies:
   
-  - **Machine Learning Algorithms**: Scikit-learn
-  - **Deep Neural Networks**: TensorFlow, PyTorch, Keras
-  - **Large Language Models (LLMs)**
-  - **Data Visualizations**: Matplotlib
-  - **Natural Language Processing**: NLTK, SpaCy, NumPy, Pandas, Gensim, word embeddings
-  - **MongoDB**
-  - **Web Scraping**
+- **Machine Learning Algorithms**: Scikit-learn
+- **Deep Neural Networks**: TensorFlow, PyTorch, Keras
+- **Large Language Models (LLMs)**
+- **Generative AI**: OpenAI, GPT models, T5, BERT
+- **Data Visualizations**: Matplotlib
+- **Natural Language Processing**: NLTK, SpaCy, NumPy, Pandas, Gensim, word embeddings
+- **MongoDB**
+- **Web Scraping**
+- **API Testing & Development**: Postman, RESTful APIs
+- **Version Control**: Git, GitHub
+- **Cloud Platforms**: AWS, Google Cloud, Azure
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
